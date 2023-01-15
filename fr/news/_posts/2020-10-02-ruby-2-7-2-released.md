@@ -2,7 +2,7 @@
 layout: news_post
 title: "Ruby 2.7.2 est disponible"
 author: "nagachika"
-translator: "chatpitre"
+translator: "Kevin Rosaz"
 date: 2020-10-02 11:00:00 +0000
 lang: fr
 ---

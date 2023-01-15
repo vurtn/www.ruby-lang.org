@@ -2,7 +2,7 @@
 layout: news_post
 title: "Ruby 3.0.0 est disponible"
 author: "naruse"
-translator: "chatpitre"
+translator: "Kevin Rosaz"
 date: 2020-12-25 00:00:00 +0000
 lang: fr
 ---
